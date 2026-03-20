@@ -35,6 +35,7 @@ Public work is being curated. Private product repositories stay private until th
 
 - [Portfolio](https://github.com/vuguul/portfolio)
 - [discord-command-controls](https://github.com/vuguul/discord-command-controls)
+- [social-feed-inputs](https://github.com/vuguul/social-feed-inputs)
 - [coolify-stack-starters](https://github.com/vuguul/coolify-stack-starters)
 - [dark-founder-portfolio](https://github.com/vuguul/dark-founder-portfolio)
 
