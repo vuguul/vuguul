@@ -23,3 +23,7 @@ Current direction:
 - selected open-source tools and templates will be published here
 
 Public work is being curated. Private product repositories stay private until they are ready to ship or extract into standalone open-source projects.
+
+## Public
+
+- [Portfolio](https://github.com/vuguul/portfolio)
