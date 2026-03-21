@@ -1,4 +1,4 @@
-# vuguul
+# Valaksi
 
 Building Zemiax.
 
